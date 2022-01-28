@@ -25,7 +25,7 @@ Blockchain evangelist with experience in DAPP development in Ethereum and enterp
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jithin-zachariah&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jithin-zac&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 ### 📫 How to reach me? 
 
   ⦿ Visit my [Website](https://jithinzachariah.in/) 🌐 <br>
