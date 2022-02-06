@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am [Jithin](https://jithinzachariah.in/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯 I mostly do backend development based on Microservices/Monolithic architecture using Javascript technologies like ExpressJS coupled with SQL/NoSQL databases like SQL Server, MongoDB etc. Experience in Azure/AWS cloud deployment, containerization using Docker, and orchestration using Kubernetes. Experience in CI/CD using tools like Azure DevOps, Jenkins.
-Blockchain evangelist with experience in DAPP development in Ethereum and enterprise blockchain application development based on Hyperledger Fabric.
+I am [Jithin](https://jithinzachariah.in/), a passionate software engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯 Strong experience in backend system design, development. Experience in building scalabale services based on event driven architecture. Hands-on experience in architecting, migrating and developing applications on the public cloud. Blockchain engineer with experience in both infrastructure/network and application development in Ethereum and Hyperledger Fabric.
 
 ### Tech Stacks 
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
