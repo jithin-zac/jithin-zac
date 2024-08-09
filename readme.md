@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an experienced software engineer proficient in designing and developing distributed systems. Skilled in constructing, overseeing, and optimizing scalable services using domain-driven design principles. Expertise includes architecting, migrating, and crafting applications across diverse public cloud platforms utilizing cloud-native technologies. Experienced software engineer proficient in designing and developing distributed systems. Skilled in constructing, overseeing, and optimizing scalable services using domain-driven design principles. Expertise includes architecting, migrating, and crafting applications across diverse public cloud platforms utilizing cloud-native technologies.
+I am an experienced software engineer proficient in designing and developing distributed systems. Skilled in constructing, overseeing, and optimizing scalable services using domain-driven design principles. Expertise includes architecting, migrating, and crafting applications across diverse public cloud platforms utilizing cloud-native technologies.
 
 ### Tech Stacks 
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
