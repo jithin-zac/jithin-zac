@@ -18,6 +18,6 @@ I am an experienced software engineer proficient in designing and developing dis
   ⦿ Shoot Me an [Email](mailto:jithin.zachariah96@gmail.com) 💌 <br>
   
   
-  ![](https://komarev.com/ghpvc/?username=jithin-zachariah)
+                                                                                                                                                                                                                              ![](https://komarev.com/ghpvc/?username=jithin-zachariah)
 
 
